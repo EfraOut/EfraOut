@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**EfraOut/EfraOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My full name is Efrain Arturo Gomez Fajardo, I'm from Bogota, Colombia and I'm currently studying at Brigham Young University - Idaho.
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
 -->
