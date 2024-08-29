@@ -1,16 +1,14 @@
-### Hi there 👋
+# Who am I?
 
-My full name is Efrain Arturo Gomez Fajardo, I'm from Bogota, Colombia and I'm currently studying at Brigham Young University - Idaho.
-<!---
-Here are some ideas to get you started:
+## Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+Before thinking of myself as a Software Engineer, I like to see myself as a constant work in progress. I am very passionate about learning anything in general. During my time in college, I took introduction classes in Physics, Chemistry, Humanities, Microeconomics, Hebrew, and American Sign Language.
+What I really like about being a Software Engineer is the capacity to be involved in all learning environments. My goal is to make a difference and help through technology to make a better world for everyone!
 
--->
+## Hobbies
+- Crochet: I started learning a year ago, and I love it. I also met my wife through it ;)
+- Piano: Started when I was 16, and I just play casually. Currently learning to play the organ. Wish me luck!
+- Board Games/Video Games: I love connecting with people while having some fun! Sometimes I can be chaotic, so be careful!
+
+## Why me?
+There are many talented people out there, especially in this industry. The unique talent that I can present is learning. With two spoken languages and one sign language, I have learned how to learn. I can recognize patterns, find ways in difficult situations, and appreciate people's cultures and thoughts. With me, you are bringing a new culture to your environment.
